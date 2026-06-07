@@ -10,10 +10,9 @@ Passionate Python developer who loves building backend applications and solving 
 
 - 🔭 Currently working on backend projects
 - 🌱 Learning Django, FastAPI & System Design
-- 📫 Contact: mohan
+- 📫 Contact: mohan076403@gmail.com
 
 ---
-
 ### Tech Stack
 
 - **Language:** Python
